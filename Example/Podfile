@@ -1,7 +1,8 @@
 use_frameworks!
 
 target 'BlinkingLabel_Example' do
-  pod 'BlinkingLabel', :path => '../'
+    #pod 'BlinkingLabel', :path => '../'
+    pod 'BlinkingLabel', :path => '~/Documents/Pods/BlinkingLabel'
 
   target 'BlinkingLabel_Tests' do
     inherit! :search_paths
