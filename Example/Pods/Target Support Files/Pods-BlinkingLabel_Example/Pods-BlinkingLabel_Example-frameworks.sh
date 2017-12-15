@@ -102,10 +102,10 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/BlinkingLabel/BlinkingLabel.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Atbot43-BlinkingLabel/Atbot43_BlinkingLabel.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/BlinkingLabel/BlinkingLabel.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Atbot43-BlinkingLabel/Atbot43_BlinkingLabel.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait
