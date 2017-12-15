@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## BlinkingLabel
+## Atbot43-BlinkingLabel
 
 Copyright (c) 2017 mrsomphop.dev@gmail.com <somphop@cenergy.co.th>
 

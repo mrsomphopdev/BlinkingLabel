@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import BlinkingLabel
+import Atbot43_BlinkingLabel
 
 class ViewController: UIViewController {
 

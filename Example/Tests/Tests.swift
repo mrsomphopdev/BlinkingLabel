@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import BlinkingLabel
+import Atbot43_BlinkingLabel
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {
